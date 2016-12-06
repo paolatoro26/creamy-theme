@@ -1,1 +1,55 @@
-/* Inserta tu código aquí */
+
+body{
+	margin: 0
+}
+
+/*---------------------------COMUN------*/
+header,footer,.info , header A{
+	background-color: rgb(230,43,68);
+	color: rgb(247,239,186)
+}
+section.so-creamy,.tags{
+	background-color: rgb(247,239,186);
+	color: rgb(230,43,68)
+}
+/*--------------------------HEADER------*/
+header{
+	padding: 10px 0
+}
+.titulo{
+	padding: 150px 0
+}
+/*---------------------------HERO-------*/
+.hero{
+	background: url(../img/creamy.jpg) no-repeat center center;
+	background-size: cover;
+	color: rgb(247,239,186)
+}
+.fondo-opaco{
+	background: rgba(35,39,41,.6);
+}
+/*------------------------SO-CREAMY-----*/
+.so-creamy img{
+	width: 100%
+}
+.so-creamy{
+	padding: 30px 0
+}
+.text-so{
+	margin-top: 70px 
+}
+/*---------------------------INFO-------*/
+.info{
+	padding: 40px;
+}
+.text-info{
+	color: rgb(247,239,186)
+}
+/*---------------------------TAGS-------*/
+
+/*--------------------------FOOTER------*/
+footer{
+	padding: 20px 80px
+}
+
+
