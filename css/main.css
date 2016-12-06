@@ -19,6 +19,10 @@ header{
 .titulo{
 	padding: 150px 0
 }
+.navbar button span{
+	background-color:rgb(247,239,186);
+}
+
 /*---------------------------HERO-------*/
 .hero{
 	background: url(../img/creamy.jpg) no-repeat center center;
@@ -39,13 +43,18 @@ header{
 	margin-top: 70px 
 }
 /*---------------------------INFO-------*/
-.info{
-	padding: 40px;
-}
+
 .text-info{
 	color: rgb(247,239,186)
 }
+
+.info,.tags{
+	padding: 40px;
+}
 /*---------------------------TAGS-------*/
+.tags i{
+	font-size: 70px
+}
 
 /*--------------------------FOOTER------*/
 footer{
